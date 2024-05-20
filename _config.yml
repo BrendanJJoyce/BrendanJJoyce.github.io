@@ -23,11 +23,11 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Brendan"
-  pronouns         : # example: "she/her"  
+  #pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Kingsville, TX, USA"
   employer         : "Red Brick University"
-  uri              : # URL
+  #uri              : # URL
   email            : "brendan.joyce@students.tamuk.edu" 
 
   # Academic websites
