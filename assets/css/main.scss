@@ -9,12 +9,14 @@
  *  - https://twitter.com/mmistakes
  *
 */
-$primary-color: #012837; //midnight blue
-$secondary-color: #04a3a0; //light teal
-$tertiary-color: #05abe0; //near-black
-$accent-color: #001729; //teal
 
 body {
+
+  $primary-color: #012837; //midnight blue
+  $secondary-color: #04a3a0; //light teal
+  $tertiary-color: #05abe0; //near-black
+  $accent-color: #001729; //teal
+    
   background: $primary-color;
   margin:0;
   padding:0;
