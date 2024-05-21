@@ -21,6 +21,6 @@ redirect_from:
 
 This site is a work-in-progress.
 
-// # Selected Experience
+<!-- # Selected Experience -->
 
-// 🖥️ ## Open Source Contributions
+<!--  ## 🖥️ Open Source Contributions -->
