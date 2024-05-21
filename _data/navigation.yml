@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
 
   - title: "Portfolio"
     url: /portfolio/
@@ -10,7 +8,12 @@ main:
     url: /year-archive/
     
   - title: "CV"
-    url: /cv/
+  # url: /cv/
+    url: /files/Brendan James Joyce - Resume 2024.pdf
     
-  - title: "Guide"
-    url: /markdown/
+  # - title: "Guide"
+  #   url: /markdown/
+
+  # - title: "Publications"
+  #   url: /publications/
+  #   url: https://scholar.google
